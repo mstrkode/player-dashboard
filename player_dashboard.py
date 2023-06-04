@@ -100,7 +100,3 @@ def set_region_value(value,value2,value3):
 
 
 
-
-if __name__ == '__main__':
-    # print(files_csv)
-    app.run_server(debug=True)
