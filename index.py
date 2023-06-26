@@ -101,4 +101,4 @@ def set_region_value(value,value2,value3):
 
 
 if __name__ == '__main__':
-    app.run_server(host='0.0.0.0', port=8080, debug=False)
+    app.run_server(host='0.0.0.0', port=8888)
