@@ -99,6 +99,5 @@ def set_region_value(value,value2,value3):
     return curr_df.to_dict('records'),dates,dates
 
 
-
 if __name__ == '__main__':
-    app.run_server(host='0.0.0.0', port=9000)
+    app.run_server(host='0.0.0.0', port=9000, debug=False)
